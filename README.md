@@ -1,2 +1,2 @@
-# Planilla de trabajadores construcora MH
+# Planilla de trabajadores constructora MH
 Proyecto de programacion primer año
