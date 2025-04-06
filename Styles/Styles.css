@@ -1,0 +1,74 @@
+body {
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    color: white;
+  }
+
+header {
+    background-color: rgba(52, 58, 64, 0.8);
+    color: white;
+    padding: 1rem;
+}
+
+footer {
+    background-color: rgba(52, 58, 64, 0.8);
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.user-card {
+    border: 1px solid #ced4da;
+    padding: 1rem;
+    margin: 0.5rem;
+    background-color: rgba(255, 255, 255, 0.9); 
+    color: black; 
+}
+
+main {
+    margin-bottom: 80px; 
+}
+
+section {
+    margin-top: 20px;
+}
+
+.form-row {
+    margin-bottom: 15px;
+}
+
+.card {
+    width: 100%;
+}
+
+#inicio, #registro {
+    color: white; 
+}
+
+#registro label {
+    color: white; 
+}
+
+#registro input,
+#registro select {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+#registro input::placeholder {
+    color: black;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: lightgray;
+}
